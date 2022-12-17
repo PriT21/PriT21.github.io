@@ -1,5 +1,7 @@
 body {
   background-color: hsl(236, 87%, 85%);
+  font-family: 'Ubuntu', sans-serif;
+
 }
 
 h1:hover {color: green;}::shadow {
