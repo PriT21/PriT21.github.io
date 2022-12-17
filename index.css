@@ -1,12 +1,15 @@
-body {
+body { margin: 10px;
   background-color: hsl(236, 87%, 85%);
   font-family: 'Ubuntu', sans-serif;
+}
+img{
 
+  
 }
 
-h1:hover {color: green;}::shadow {
-  color: #5865f2;
-}
+h1{   font-family: 'Sacramento',cursive;
+  font-size:50px;
+  }
 
 h3 {
   color: #5865f2;
